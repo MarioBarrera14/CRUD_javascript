@@ -1,0 +1,16 @@
+[
+    {
+        "id":"1",
+        "title":"Aliens",
+        "director":"James Cameron",
+        "year":"1986",
+        "rating":"0.5"
+    },
+    {
+        "id":"2",
+        "title":"volver al futuro",
+        "director":"Steven Spielberg",
+        "year":"1986",
+        "rating":"10"
+    }
+]
